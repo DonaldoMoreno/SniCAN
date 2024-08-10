@@ -1,4 +1,4 @@
-# Mi Proyecto de Hardware Embebido
+# SniCAN 
 
 ## Descripción
 
@@ -27,9 +27,7 @@ y una interfaz gráfica para la configuración y monitoreo.
 │   ├── /simulaciones
 │   ├── /documentacion
 │   └── /mecanico
-├── /firmware
-├── /software
-│   ├── /gui
-│   └── /cli
-├── /simulaciones
-└── /tools
+├── /firmware*
+├── /software*
+├── /simulaciones*
+└── /tools*
